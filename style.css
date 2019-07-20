@@ -28,12 +28,10 @@ figcaption {
   margin: auto;
 }
 
-#details {
-  width: 800px;
-  text-align: center;
-}
 
 #details div{
+  width: 100%;
+  text-align: center;
   display: block;
   float: left;
   background-color: red;
